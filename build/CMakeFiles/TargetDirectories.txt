@@ -1,0 +1,3 @@
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/build/CMakeFiles/rebuild_cache.dir
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/build/CMakeFiles/Charges.dir
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/build/CMakeFiles/edit_cache.dir

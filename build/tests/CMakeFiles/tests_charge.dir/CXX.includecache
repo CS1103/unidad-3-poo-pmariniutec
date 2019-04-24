@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/charge.h
+utils.h
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/utils.h
+
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/simulator.h
+algorithm
+-
+iostream
+-
+assert.h
+-
+stdlib.h
+-
+vector
+-
+time.h
+-
+charge.h
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/charge.h
+
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/utils.h
+math.h
+-
+iostream
+-
+
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/tests/tests.cpp
+iostream
+-
+assert.h
+-
+../src/simulator.h
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/simulator.h
+../src/charge.h
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/charge.h
+../src/utils.h
+/home/piero/Development/Cpp/POO2/unidad-3-poo-pmariniutec/src/utils.h
+
